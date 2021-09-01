@@ -20,4 +20,39 @@ contact:
 {% endraw %}
 
 
-## <i class="fas fa-flag"></i> Hello World!
+## <i class="fas fa-project-diagram"></i> Projects
+
+### MCDRemote Series
+
+#### [MCDReforged-Remote](https://github.com/iXORTech/MCDReforged-Remote)
+
+An MCDR plugin implementing the Flask framework. Allowing users to remotely control the Minecraft server or implement two-way chatbots through related APIs.
+
+#### [MCDRemoteBot](https://github.com/iXORTech/MCDRemoteBot)
+
+An QQ chat bot implementing APIs from MCDReforged-Remote. Allowing users to chat with player in server or execute server commands in QQ Groups.
+
+#### [MCDRemote-Client](https://github.com/iXORTech/MCDRemote-Client)
+
+The cross-platform desktop application for MCDReforged-Remote. Allowing users to control the server remotely.
+
+## <i class="far fa-id-badge"></i> Our Members
+
+{% raw %}
+ <btns rounded>
+ <a href='https://github.com/Cubik65536' style="width: 320px">
+   <img src='https://avatars.githubusercontent.com/u/72877496?s=60&v=4'>
+   <b>Cubik65536</b>
+   <span>Founder, Product Manager<br/>Java & Python Developer</span>
+ </a>
+ <a href='https://github.com/KevinZonda' style="width: 320px">
+   <img src='https://avatars.githubusercontent.com/u/33132228?v=4'>
+   <b>KevinZonda</b>
+   <span>Co-Founder, Chief Software Engineer<br/>C# Developer</span>
+ </a>
+ </btns>
+ {% endraw %}
+
+ ### Join us
+
+If you want to join us, please send us an email to [contact@ixor.tech](mailto:contact@ixor.tech). <br/>Be creative, and let's do something that makes you proud or something meaningful to you together.
