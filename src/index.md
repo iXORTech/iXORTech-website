@@ -41,7 +41,7 @@ The cross-platform desktop application for MCDReforged-Remote. Allowing users to
 {% raw %}
  <btns rounded>
  <a href='https://github.com/Cubik65536' style="width: 320px">
-   <img src='https://avatars.githubusercontent.com/u/72877496?s=60&v=4'>
+   <img src='https://avatars.githubusercontent.com/u/72877496?v=4'>
    <b>Cubik65536</b>
    <span>Founder, Product Manager<br/>Java & Python Developer</span>
  </a>
