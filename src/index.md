@@ -26,11 +26,11 @@ contact:
 
 #### [MCDReforged-Remote](https://github.com/iXORTech/MCDReforged-Remote)
 
-An MCDR plugin implementing the Flask framework. Allowing users to remotely control the Minecraft server or implement two-way chatbots through related APIs.
+An MCDR plugin which implements the Flask framework and allows users to remotely control the Minecraft server or implement two-way chatbots through related APIs.
 
 #### [MCDRemoteBot](https://github.com/iXORTech/MCDRemoteBot)
 
-An QQ chat bot implementing APIs from MCDReforged-Remote. Allowing users to chat with player in server or execute server commands in QQ Groups.
+A QQ chat bot which implements APIs from MCDReforged-Remote and allow users to chat with players in server or execute server commands in QQ Groups.
 
 #### [MCDRemote-Client](https://github.com/iXORTech/MCDRemote-Client)
 
@@ -55,4 +55,5 @@ The cross-platform desktop application for MCDReforged-Remote. Allowing users to
 
  ### Join us
 
-If you want to join us, please send us an email to [contact@ixor.tech](mailto:contact@ixor.tech). <br/>Be creative, and let's do something that makes you proud or something meaningful to you together.
+If you want to join us, please send an email to [contact(AT)ixor.tech](mailto:contact@ixor.tech).  
+Be creative, and let's do something proud and meaningfull together.
