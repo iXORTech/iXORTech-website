@@ -1,6 +1,6 @@
 ---
 lang: en
-description: C#, Java, Python and Swift Application Development Team
+description: C#, Java, Python and Swift Application Development Team. Currently focusing on Minecraft plugin and related program developments.
 resume_title: iXOR Technology
 name: iXOR Technology
 avatar: https://avatars.githubusercontent.com/u/74606353?s=200&v=4

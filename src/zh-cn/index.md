@@ -1,9 +1,9 @@
 ---
 lang: zh-cn
-description: 这是一个在线简历模板（Hexo博客主题）。
+description: C#, Java, Python 和 Swift 软件开发团队。<br/>目前专注于Minecraft插件以及相关软件的开发。
 resume_title: iXOR Technology
 name: iXOR Technology
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+avatar: https://avatars.githubusercontent.com/u/74606353?s=200&v=4
 contact:
   - icon: fab fa-github-square
     text: iXORTech
