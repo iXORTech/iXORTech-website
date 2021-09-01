@@ -56,4 +56,4 @@ The cross-platform desktop application for MCDReforged-Remote. Allowing users to
  ### Join us
 
 If you want to join us, please send an email to [contact(AT)ixor.tech](mailto:contact@ixor.tech).  
-Be creative, and let's do something proud and meaningfull together.
+Be creative, and let's do proud and meaningful things together.
