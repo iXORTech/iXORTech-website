@@ -11,10 +11,11 @@ avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
 theme: resume
 theme_config:
   robots: index,follow
+  # the footer of your site
+  copyright: '[Copyright © 2021 iXOR Technology. All rights reserved.](/)'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://resume.js.org
-# url: http://localhost:4000
+url: https://www.ixor.tech
 root: /
 permalink: posts/:title/
 tag_dir: tags
@@ -153,10 +154,6 @@ lazyload:
   enable: true
   onlypost: false
   loadingImg: https://img.vim-cn.com/92/d570170f4f12e1ee829ca0e85a7dffeb77343a.svg
-
-
-# 百度统计key
-# baidu_analytics_key: cd037d28d6a6eaf5b81b7c9b024741cc
 
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
