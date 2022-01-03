@@ -12,7 +12,7 @@ theme: resume
 theme_config:
   robots: index,follow
   # the footer of your site
-  copyright: '[Copyright © 2021 iXOR Technology. All rights reserved.](/)'
+  copyright: '[Copyright © 2022 iXOR Technology. All rights reserved.](/)'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.ixor.tech
