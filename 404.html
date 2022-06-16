@@ -2,28 +2,34 @@
 <html lang="en-gb">
 
 <head>
-    <title>404 | St. Linus College</title>
+    <title>404 | iXOR Technology</title>
     <link rel="stylesheet" href="assets/style/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <script src="https://unpkg.com/feather-icons"></script>
 </head>
 
 <body>
-    <div class="index-container">
-        <div class="content">
-            <div style="text-align:center;">
-                <img style="max-height: 180px; max-width: 180px; width: 100%;" src="assets/ixortechlogo.png" alt="Logo">
-                <h1>404 Not Found</h1>
+    <div id="page-wrapper">
+        <div class="index-container">
+            <div class="content">
+                <div style="text-align:center;">
+                    <img style="max-height: 180px; max-width: 180px; width: 100%;" src="assets/ixortechlogo.png"
+                        alt="Logo">
+                    <h1>404 Not Found</h1>
+                </div>
+                <div>
+                    <p>This page is under construction. See you soon.</p>
+                </div>
+                <footer v-html="footer"></footer>
             </div>
-            <div>
-                <p>This page is under construction. See you soon.</p>
-            </div>
-            <footer>
-                <hr>
-                Copyright &copy; 2021 St. Linus College, Home University
-            </footer>
-
         </div>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="assets/js/vue_page.js"></script>
+    <script>
+        feather.replace()
+    </script>
 </body>
 
 </html>
